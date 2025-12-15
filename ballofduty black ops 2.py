@@ -1,6 +1,6 @@
 #ballofduty
 import playsound
-a=input("O  >:(")
+a=input("o  >:(")
 if a=="s":
  playsound("america.mp3")
  print("win ending!")
